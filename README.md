@@ -65,7 +65,7 @@ MIT License. See [LICENSE](LICENSE).
 
 Email:libraphor@proton.me
 Twitter: [@Libraphor](https://twitter.com/Libraphor)  
-Website: https://libraphor.com 
+Website: https://libraphor.email / net / shop / store 
 
 ## Acknowledgments
 
